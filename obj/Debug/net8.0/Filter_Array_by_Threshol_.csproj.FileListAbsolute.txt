@@ -1,0 +1,14 @@
+D:\csharp\Filter_Array_by_Threshol_\bin\Debug\net8.0\Filter_Array_by_Threshol_.exe
+D:\csharp\Filter_Array_by_Threshol_\bin\Debug\net8.0\Filter_Array_by_Threshol_.deps.json
+D:\csharp\Filter_Array_by_Threshol_\bin\Debug\net8.0\Filter_Array_by_Threshol_.runtimeconfig.json
+D:\csharp\Filter_Array_by_Threshol_\bin\Debug\net8.0\Filter_Array_by_Threshol_.dll
+D:\csharp\Filter_Array_by_Threshol_\bin\Debug\net8.0\Filter_Array_by_Threshol_.pdb
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\Filter_Array_by_Threshol_.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\Filter_Array_by_Threshol_.AssemblyInfoInputs.cache
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\Filter_Array_by_Threshol_.AssemblyInfo.cs
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\Filter_Array_by_Threshol_.csproj.CoreCompileInputs.cache
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\Filter_Array_by_Threshol_.dll
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\refint\Filter_Array_by_Threshol_.dll
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\Filter_Array_by_Threshol_.pdb
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\Filter_Array_by_Threshol_.genruntimeconfig.cache
+D:\csharp\Filter_Array_by_Threshol_\obj\Debug\net8.0\ref\Filter_Array_by_Threshol_.dll

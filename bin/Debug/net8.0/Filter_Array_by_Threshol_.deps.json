@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Filter_Array_by_Threshol_/1.0.0": {
+        "runtime": {
+          "Filter_Array_by_Threshol_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filter_Array_by_Threshol_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
